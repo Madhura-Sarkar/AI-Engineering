@@ -1,0 +1,5 @@
+Name: Madhura
+Course: AI Engineering
+Day: 11
+Goal: Become an AI Engineer
+Current Skill: Python
