@@ -1,1 +1,7 @@
-
+{
+    "name": "Madhura",
+    "age": 22,
+    "Education": "BCA",
+    "Skills": ["html", "CSS", "Javascript", "Designing"],
+    "Goal": "Design and Developer"
+}
